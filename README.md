@@ -1,7 +1,10 @@
-### Hi there 👋
+<div align="center">
+<img src="https://github.com/DenisseSantana/DenisseSantana/blob/main/assets/gif.gif" alt="DenisseSantana" background-size="contain"/>
+</div>
 
 <!--
 **DenisseSantana/DenisseSantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
 Here are some ideas to get you started:
 
