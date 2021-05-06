@@ -11,7 +11,7 @@
   <a href="https://reactjs.org/" target="_blank"> <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="react" width="50" height="50"/> </a>
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" alt="firebase" width="50" height="50"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="git" height="50"/> </a>
-  <a href="https://docs.python.org/3/" target="_blank"> <img src="https://giphy.com/embed/LMt9638dO8dftAjtco/giphy.gif" alt="python" height="50"/> </a>
+  <a href="https://docs.python.org/3/" target="_blank"> <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="python" height="50"/> </a>
 </div>
 
 <!--
