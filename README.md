@@ -2,7 +2,7 @@
   <img src="https://github.com/DenisseSantana/DenisseSantana/blob/main/assets/gif.gif?raw=true" alt="DenisseSantana" background-size="contain"/>
 </div>
 <div align="center">
-   <h3>- FINDE ME ON -</h3>
+   <h3>- FIND ME ON -</h3>
    <a href="https://www.linkedin.com/in/denisse-santana-84596420a/" target="_blank"> <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" alt="html5" width="50" height="50"/> </a>
    <a href="https://www.instagram.com/santadenisse" target="_blank"> <img src="https://media.giphy.com/media/IbTZSfHDUDSmOCkd3q/giphy.gif" alt="html5" width="50" height="50"/> </a>
    <a href="https://open.spotify.com/artist/6jfYymdMLzSsGeRNcNJqzX?si=PJs3Xo4nRIiOqxGyyqexfQ" target="_blank"> <img src="https://media.giphy.com/media/alxwuUFuJmVEJb3PDg/giphy.gif" alt="html5" width="50" height="50"/> </a>
