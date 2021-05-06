@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/DenisseSantana/DenisseSantana/blob/main/assets/gif.gif" alt="DenisseSantana" background-size="contain"/>
+  <img src="https://github.com/DenisseSantana/DenisseSantana/blob/main/assets/for%20git.gif?raw=true" alt="DenisseSantana" background-size="contain"/>
 </div>
 
 <div align="center">
