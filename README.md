@@ -3,9 +3,9 @@
 </div>
 <div align="center">
    <h3>- FINDE ME ON -</h3>
-   <a href="https://www.linkedin.com/in/denisse-santana-84596420a/" target="_blank"> <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" alt="html5" width="30" height="30"/> </a>
-   <a href="https://www.instagram.com/santadenisse" target="_blank"> <img src="https://media.giphy.com/media/IbTZSfHDUDSmOCkd3q/giphy.gif" alt="html5" width="30" height="30"/> </a>
-   <a href="https://open.spotify.com/artist/6jfYymdMLzSsGeRNcNJqzX?si=PJs3Xo4nRIiOqxGyyqexfQ" target="_blank"> <img src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" alt="html5" width="30" height="30"/> </a>
+   <a href="https://www.linkedin.com/in/denisse-santana-84596420a/" target="_blank"> <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" alt="html5" width="50" height="50"/> </a>
+   <a href="https://www.instagram.com/santadenisse" target="_blank"> <img src="https://media.giphy.com/media/IbTZSfHDUDSmOCkd3q/giphy.gif" alt="html5" width="50" height="50"/> </a>
+   <a href="https://open.spotify.com/artist/6jfYymdMLzSsGeRNcNJqzX?si=PJs3Xo4nRIiOqxGyyqexfQ" target="_blank"> <img src="https://media.giphy.com/media/alxwuUFuJmVEJb3PDg/giphy.gif" alt="html5" width="50" height="50"/> </a>
   
 </div>
 <div align="center">
