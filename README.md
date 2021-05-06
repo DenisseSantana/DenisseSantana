@@ -13,7 +13,9 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="git" height="50"/> </a>
   <a href="https://docs.python.org/3/" target="_blank"> <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="python" height="50"/> </a>
 </div>
-
+<div align="center">
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=denissesantana&theme=raywhite&show_icons=true)
+</div>
 <!--
 **DenisseSantana/DenisseSantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
