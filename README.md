@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/DenisseSantana/DenisseSantana/blob/main/assets/gif.gif?raw=true" alt="DenisseSantana" background-size="contain"/>
+  <img src="https://github.com/DenisseSantana/DenisseSantana/blob/main/assets/gif.gif?raw=true" alt="DenisseSantana" background-size="80%"/>
 </div>
 <div align="center">
    <h3>- FIND ME ON -</h3>
